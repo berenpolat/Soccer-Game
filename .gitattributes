@@ -1,0 +1,2 @@
+“.fileextension filter=lfs diff=lfs merge=lfs -text
+“.fileextension” filter=lfs diff=lfs merge=lfs -text
